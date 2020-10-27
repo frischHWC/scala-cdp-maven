@@ -25,13 +25,6 @@
 
     <dependencies>
 
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.10</version>
-            <scope>compile</scope>
-        </dependency>
-
         <!-- Log4j required dependencies -->
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
