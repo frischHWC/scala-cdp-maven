@@ -13,7 +13,7 @@ Then Package the program:
 Then you can run it using this java command:
 
 [source,bash]
-java -jar java-app-cdp.jar
+java -jar scala-app-cdp-maven-*-jar*.jar
 
 
 It is also possible to launch it on a platform using script: link:src/main/resources/launchToPlatform.sh[src/main/resources/launchToPlatform.sh].
