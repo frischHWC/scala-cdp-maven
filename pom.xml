@@ -10,7 +10,7 @@
 
     <properties>
         <!-- Check your EXACT version of CDP as all platform jars depends on it -->
-        <cdp.version>7.1.4.0-203</cdp.version>
+        <cdp.version>7.1.5.0-257</cdp.version>
     </properties>
 
 
@@ -77,7 +77,7 @@
         <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-ozone-client</artifactId>
-            <version>0.5.0.${cdp.version}</version>
+            <version>1.0.0.${cdp.version}</version>
         </dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
@@ -103,7 +103,7 @@
         <dependency>
             <groupId>org.apache.kudu</groupId>
             <artifactId>kudu-client</artifactId>
-            <version>1.12.0.${cdp.version}</version>
+            <version>1.13.0.${cdp.version}</version>
         </dependency>
 
     </dependencies>
