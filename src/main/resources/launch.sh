@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export DIR="/home/root/scalaappcdpmaven"
+export DIR="/root/scalaappcdpmaven"
 
 echo "*** Starting to launch program ***"
 

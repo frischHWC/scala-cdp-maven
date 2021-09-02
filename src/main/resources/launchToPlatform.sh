@@ -4,7 +4,7 @@
 # export HOST=
 
 export USER=root
-export DEST_DIR="/home/root/scalaappcdpmaven"
+export DEST_DIR="/root/scalaappcdpmaven"
 
 echo "Create needed directory on platform and send required files there"
 
